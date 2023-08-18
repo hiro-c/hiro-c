@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Hiro_C</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <br>I am a UI designer from China.<br>
 
 </samp>
 
